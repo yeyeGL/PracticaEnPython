@@ -1,0 +1,2 @@
+Comandos para instalar librerias necesarias:
+pip install opencv-python numpy pyautogui sounddevice wavio moviepy[ffmpeg]
